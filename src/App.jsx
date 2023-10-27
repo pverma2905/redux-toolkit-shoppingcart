@@ -3,7 +3,7 @@ import './App.css'
 import Navbar from './components/Navbar'
 import ProductCard from './components/ProductCard'
 import ProductData from './ProductData'
-import CartPage from './components/CartPAge'
+import CartPage from './components/CartPage'
 
 function App() {
   return (
